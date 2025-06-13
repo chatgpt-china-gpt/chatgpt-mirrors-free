@@ -1,8 +1,8 @@
 # 【中国在线免费】国内可用的ChatGPT免费中文版镜像网站整理（2025年6月 更新）
 
-> 更新日期：2025/06/05
+> 更新日期：2025/06/15
 
-本站整理收录了一些在国内可以访问且免费的 **[ChatGPT 镜像网站](https://chat.lanjing.pro)**，欢迎有需要的用户使用。
+本站整理收录了一些在国内可以访问且免费的 **[ChatGPT 镜像网站](https://talk.lanjing.pro)**，欢迎有需要的用户使用。
 
 这些网站**无需翻墙**，直接在国内即可在线使用的 **[ChatGPT 中文版镜像网站](https://xsimplechat.com)**
 
@@ -12,7 +12,7 @@
 
 ChatGPT 镜像网站（ChatGPT Mirror）是指通过复制原始 ChatGPT 官网内容和功能创建的备用网站。国内用户无需翻墙，即可轻松使用。
 
-相较于官网，[**ChatGPT 镜像网站**](https://chat.lanjing.pro) 更符合国内用户的需求：
+相较于官网，[**ChatGPT 镜像网站**](https://talk.lanjing.pro) 更符合国内用户的需求：
 
 - **国内直连**：在国内即可直接使用，无需翻墙~
 - **中文支持**：提供流畅的中文对话能力，适合学习、办公和日常使用。
@@ -22,7 +22,7 @@ ChatGPT 镜像网站（ChatGPT Mirror）是指通过复制原始 ChatGPT 官网�
 
 以下是一些精选的国内优质 **ChatGPT 中文版镜像网站**，提供高效的中文访问体验：
 
-- [https://chat.lanjing.pro/](https://chat.lanjing.pro/) - **ChatGPT 中文版**，运营近2年，支持 GPT4、4.0 以及 0.1，支持 AI绘画，扫码即可使用。
+- [https://talk.lanjing.pro/](https://talk.lanjing.pro/) - **ChatGPT 中文版**，运营近2年，支持 GPT4、4.0 以及 0.1，支持 AI绘画，扫码即可使用。
 - [https://xsimplechat.com/](https://xsimplechat.com/) - **ChatGPT 镜像网站**，运营近2年，支持 GPT4、4.0 以及 0.1，提供 AI文件、AI PPT、AI助手、AI插件功能和思维导图。
 - [https://guide1.lanjing.ai/](https://chat.yixiaai.com/) - **ChatGPT 镜像网站**，运营1年多，支持 GPT4、4.0，支持 AI绘画（Midjourney 和 Dall·E）。
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4.0，使用简单便捷。
